@@ -60,3 +60,5 @@ The above migration is applied automatically during startup in the dev environme
 The default API endpoints should be testable from the [Swagger UI](http://localhost:5000/swagger/index.html).
 
 Enjoy!
+
+https://docs.google.com/document/d/1BqhjpC55_KkuDMPNLmEmQe9z47n11qd32pFVTFWGwxQ/edit?usp=sharing
